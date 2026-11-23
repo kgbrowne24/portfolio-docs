@@ -4,6 +4,22 @@ sidebar_position: 3
 description: Three home Wi-Fi troubleshooting articles written for non-technical readers.
 ---
 
+
+## About This Sample
+
+**Objective:** Demonstrate how to create structured, user-focused troubleshooting documentation that helps users independently diagnose and resolve common technical issues.
+
+**Approach:** Developed a knowledge base article addressing common Wi-Fi connectivity problems. Organized the content around observable symptoms and progressively introduced troubleshooting steps, beginning with simple checks before moving to more advanced solutions.
+
+**Key documentation decisions:**
+- Used symptom-based headings to help users quickly identify relevant information.
+- Organized troubleshooting steps from least disruptive to more advanced actions.
+- Provided clear, sequential instructions with expected results where appropriate.
+- Used accessible language to support users with varying levels of technical experience.
+- Included escalation guidance for issues that cannot be resolved through self-service.
+
+**Skills demonstrated:** Troubleshooting documentation, knowledge base development, technical support content, task-based writing, and user experience.
+
 **Audience:** Home users with no networking background <br />
 **Goal:** Help readers solve common problems on their own, in clear, short steps
 

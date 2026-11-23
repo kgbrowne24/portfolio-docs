@@ -4,6 +4,22 @@ sidebar_position: 2
 description: How this portfolio is built with Markdown, Git, pull requests, and Docusaurus on GitHub Pages.
 ---
 
+## About This Sample
+
+**Objective:** Demonstrate how a docs-as-code workflow supports collaborative documentation development, version control, and consistent publishing.
+
+**Approach:** Created a documentation sample using Markdown, Git, GitHub, and Docusaurus. Organized the content to illustrate how documentation changes can be authored, reviewed, and maintained through a version-controlled workflow.
+
+**Key documentation decisions:**
+- Used Markdown to keep documentation portable, readable, and easy to maintain.
+- Organized documentation within a Docusaurus site to demonstrate structured navigation and publishing.
+- Illustrated how Git branches and pull requests support collaborative review.
+- Applied consistent formatting and content organization to improve maintainability.
+- Used GitHub to make the documentation source accessible alongside the published site.
+
+**Skills demonstrated:** Docs-as-code, Markdown/MDX, Git, GitHub, Docusaurus, documentation maintenance, and technical collaboration.
+
+
 **Audience:** Hiring managers and engineers reviewing my workflow <br />
 **What it shows:** Markdown authoring, Git branches and pull requests, and a static site built with Docusaurus
 

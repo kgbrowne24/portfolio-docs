@@ -4,6 +4,21 @@ sidebar_position: 1
 description: A help center guide for new Metabase users, from a blank screen to a working dashboard.
 ---
 
+## About This Sample
+
+**Objective:** Demonstrate how to create task-oriented product documentation that helps users complete a workflow in a business intelligence application.
+
+**Approach:** Created a sample procedural guide using a fictional dashboard-building scenario in Metabase. Structured the content around a typical user workflow, from selecting data and configuring visualizations to assembling and saving a dashboard. The instructions are illustrative and have not been validated against a live application.
+
+**Key documentation decisions:**
+- Used task-oriented headings to help readers navigate the workflow.
+- Organized instructions in the order users would perform them.
+- Used numbered steps for actions and explanatory text for supporting information.
+- Applied consistent terminology to make instructions easier to follow.
+- Included context where needed to help users understand the purpose of each action.
+
+**Skills demonstrated:** User documentation, procedural writing, business intelligence concepts, technical editing, and task-based information design.
+
 **Audience:** New Metabase users with no SQL experience <br />
 **Goal:** Go from a blank screen to a working dashboard in about 10 minutes <br />
 **Tools:** Metabase (open source) and its built-in Sample Database

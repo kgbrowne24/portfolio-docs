@@ -4,6 +4,23 @@ sidebar_position: 4
 description: A 45-minute training module with objectives, agenda, hands-on exercise, job aid, and knowledge check.
 ---
 
+
+## About This Sample
+
+**Objective:** Demonstrate how to develop task-oriented technical training that helps beginners learn foundational Git concepts and workflows.
+
+**Approach:** Designed an introductory training module that combines plain-language explanations, practical command examples, and hands-on exercises. Organized the content progressively, introducing core concepts before asking learners to apply them.
+
+**Key documentation decisions:**
+- Used accessible language to explain unfamiliar technical concepts without oversimplifying them.
+- Sequenced the material from foundational concepts to practical Git workflows.
+- Included command-line examples to reinforce learning through application.
+- Structured the training around tasks learners are likely to perform in a real development environment.
+- Incorporated hands-on practice to help learners build confidence using Git.
+
+**Skills demonstrated:** Technical training, instructional design, developer education, task-based documentation, and technical communication.
+
+
 **Audience:** Technical writers new to docs-as-code workflows <br />
 **Length:** 45 minutes, instructor-led or self-guided <br />
 **Prerequisites:** Git installed, a GitHub account, and a text editor
