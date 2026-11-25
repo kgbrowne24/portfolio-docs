@@ -29,7 +29,6 @@ description: How this portfolio is built with Markdown, Git, pull requests, and 
 portfolio-docs/
 ├── docs/
 │   ├── intro.md
-│   ├── sample-1-metabase-dashboard.md
 │   ├── sample-2-docs-as-code.md
 │   ├── sample-3-wifi-troubleshooting.md
 │   ├── sample-4-git-basics-training.md
