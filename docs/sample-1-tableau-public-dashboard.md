@@ -59,6 +59,12 @@ Tableau Public makes everything you publish visible to anyone. Use only data tha
 3. On the data source page, check that the five columns appear in the preview.
 4. Select **Sheet 1** at the bottom of the window to open the workspace.
 
+<img
+  src={step-1-connect-to-the-data}
+  alt="Step 1: Connect to the data"
+  style={{ width: '100%', height: 'auto' }}
+/>
+
 ## Step 2: Build a chart of sales over time
 
 1. Drag **Order Date** to **Columns**.
@@ -67,6 +73,12 @@ Tableau Public makes everything you publish visible to anyone. Use only data tha
 4. Tableau draws a line chart of sales by month.
 5. Right-click the **Sheet 1** tab, choose **Rename**, and enter **Sales by month**.
 
+<img
+  src={step-2-Build-a-chart-of-sales-over-time}
+  alt="Step 2: Build a chart of sales over time"
+  style={{ width: '100%', height: 'auto' }}
+/>
+
 ## Step 3: Build a chart of sales by region
 
 1. Select the **New Worksheet** icon at the bottom of the window.
@@ -74,6 +86,12 @@ Tableau Public makes everything you publish visible to anyone. Use only data tha
 3. Drag **Sales** to **Rows**. Tableau draws a bar chart with one bar for each region.
 4. Drag **Product Category** to **Color** on the **Marks** card. Each bar now shows how much came from Beans and how much from Equipment.
 5. Rename the sheet **Sales by region**.
+
+<img
+  src={step-3-Build-a-chart-of-sales-by-region}
+  alt="Step 3: Build a chart of sales by region"
+  style={{ width: '100%', height: 'auto' }}
+/>
 
 ## Step 4: Build the dashboard
 
@@ -84,11 +102,23 @@ Tableau Public makes everything you publish visible to anyone. Use only data tha
 5. Select a bar. The **Sales by month** chart updates to show only that selection. Select the same bar again to clear it.
 6. Rename the dashboard **Coffee sales overview**.
 
+<img
+  src={step-4-Build-the-dashboard}
+  alt="Step 4: Build the dashboard"
+  style={{ width: '100%', height: 'auto' }}
+/>
+
 ## Step 5: Save and publish
 
 1. Click the blue **Publish** button in the top toolbar.
 2. Enter a name for the workbook, such as **Coffee sales dashboard**, then select **Publish**.
 3. Open your Tableau Public profile to view the published dashboard.
+
+<img
+  src={step-5-Save-and-publish}
+  alt="Step 5: Save and publish"
+  style={{ width: '100%', height: 'auto' }}
+/>
 
 You can share your dashboard by copying the link from your browser.
 
