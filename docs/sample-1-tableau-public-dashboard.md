@@ -7,7 +7,7 @@ import stepOne from '@site/static/img/step-1-connect-to-the-data.png';
 import stepTwo from '@site/static/img/step-2-Build-a-chart-of-sales-over-time.png';
 import stepThree from '@site/static/img/step-3-Build-a-chart-of-sales-by-region.png';
 import stepFour from '@site/static/img/step-4-Build-the-dashboard.png';
-import stepFive from '@site/static/img/step-5-Save-and-publish';
+import stepFive from '@site/static/img/step-5-Save-and-publish.png';
 
 ## About This Sample
 
