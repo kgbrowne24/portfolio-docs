@@ -3,6 +3,11 @@ title: "Sample 1: Build Your First Dashboard in Tableau Public"
 sidebar_position: 1
 description: A help center guide for new Tableau Public users, from a CSV file to a published dashboard, with no software to install.
 ---
+import stepOne from '@site/static/img/step-1-connect-to-the-data.png';
+import stepTwo from '@site/static/img/step-2-Build-a-chart-of-sales-over-time.png';
+import stepThree from '@site/static/img/step-3-Build-a-chart-of-sales-by-region.png';
+import stepFour from '@site/static/img/step-4-Build-the-dashboard.png';
+import stepFive from '@site/static/img/step-5-Save-and-publish';
 
 ## About This Sample
 
@@ -60,7 +65,7 @@ Tableau Public makes everything you publish visible to anyone. Use only data tha
 4. Select **Sheet 1** at the bottom of the window to open the workspace.
 
 <img
-  src={step-1-connect-to-the-data}
+  src={stepOne}
   alt="Step 1: Connect to the data"
   style={{ width: '100%', height: 'auto' }}
 />
@@ -74,7 +79,7 @@ Tableau Public makes everything you publish visible to anyone. Use only data tha
 5. Right-click the **Sheet 1** tab, choose **Rename**, and enter **Sales by month**.
 
 <img
-  src={step-2-Build-a-chart-of-sales-over-time}
+  src={stepTwo}
   alt="Step 2: Build a chart of sales over time"
   style={{ width: '100%', height: 'auto' }}
 />
@@ -88,7 +93,7 @@ Tableau Public makes everything you publish visible to anyone. Use only data tha
 5. Rename the sheet **Sales by region**.
 
 <img
-  src={step-3-Build-a-chart-of-sales-by-region}
+  src={stepThree}
   alt="Step 3: Build a chart of sales by region"
   style={{ width: '100%', height: 'auto' }}
 />
@@ -103,7 +108,7 @@ Tableau Public makes everything you publish visible to anyone. Use only data tha
 6. Rename the dashboard **Coffee sales overview**.
 
 <img
-  src={step-4-Build-the-dashboard}
+  src={stepFour}
   alt="Step 4: Build the dashboard"
   style={{ width: '100%', height: 'auto' }}
 />
@@ -115,7 +120,7 @@ Tableau Public makes everything you publish visible to anyone. Use only data tha
 3. Open your Tableau Public profile to view the published dashboard.
 
 <img
-  src={step-5-Save-and-publish}
+  src={stepFive}
   alt="Step 5: Save and publish"
   style={{ width: '100%', height: 'auto' }}
 />
