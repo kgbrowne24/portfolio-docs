@@ -28,11 +28,17 @@ description: How this portfolio is built with Markdown, Git, pull requests, and 
 ```
 portfolio-docs/
 ├── docs/
+│   ├── assets/
+│   │   └── coffee-sales.csv
 │   ├── intro.md
+│   ├── sample-1-tableau-public-dashboard.md
 │   ├── sample-2-docs-as-code.md
 │   ├── sample-3-wifi-troubleshooting.md
 │   ├── sample-4-git-basics-training.md
-│   └── sample-5-content-audit.md
+│   ├── sample-5-content-audit-information-architecture-case-study.md
+│   └── sample-6-meridian-api-integration-guide.md
+├── src/
+│   └── css/
 ├── static/img/
 ├── docusaurus.config.js
 ├── sidebars.js
