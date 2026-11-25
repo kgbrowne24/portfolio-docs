@@ -86,8 +86,8 @@ Tableau Public makes everything you publish visible to anyone. Use only data tha
 
 ## Step 5: Save and publish
 
-1. Select **File**, then **Save**.
-2. Enter a name for the workbook, such as **Coffee sales dashboard**, then select **Save**.
+1. Click the blue **Publish** button in the top toolbar.
+2. Enter a name for the workbook, such as **Coffee sales dashboard**, then select **Publish**.
 3. Open your Tableau Public profile to view the published dashboard.
 
 You can share your dashboard by copying the link from your browser.
